@@ -175,18 +175,6 @@ Traitement distribué des statistiques de la Premier League 2023-2024 sur cluste
 
 ---
 
-## 📈 En chiffres
-
-| Métrique | Valeur |
-|---|---|
-| Projets réalisés | 4 projets Data Science, ML & Big Data |
-| Certifications | 1 (NVIDIA Deep Learning) |
-| Technologies maîtrisées | 20+ outils & frameworks |
-| Expérience en entreprise | PFE Banque Zitouna (pipeline complet) |
-| Stack MLOps | Docker · FastAPI · Streamlit · MLflow |
-
----
-
 
 ## 🔗 Contact
 
