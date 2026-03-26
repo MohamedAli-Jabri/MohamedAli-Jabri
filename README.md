@@ -1,125 +1,147 @@
 # 👋 Bonjour ! Je suis Mohamed Ali Jabri
 
 Bienvenue sur mon GitHub !  
-Je suis **étudiant en cycle d'ingénieur**, spécialisation **Data Science**, avec une **Licence en Business Computing – Business Intelligence**.  
+Je suis **étudiant en cycle d'ingénieur**, spécialisation **Data Science** à **ESPRIT**, avec une **Licence en Business Computing – Business Intelligence**.
 
 Passionné par **l'analyse de données, le Machine Learning (ML), le Deep Learning (DL)** et la **Business Intelligence**, j'aime transformer les données en solutions intelligentes et décisions stratégiques.
 
-📍 **Actuellement basé en Tunisie** | Disponible pour des projets et collaborations en **ML, DL, Data Science et BI**.
+📍 **Actuellement basé en Tunisie** | Disponible pour des projets et collaborations en **ML, DL, Data Science et BI**
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAli-Jabri&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAli-Jabri&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 🏆 Projets Vedettes
 
-### 1. 📊 **Customer Churn Prediction – Banque Zitouna (PFE Complet)**
-![MLOps](https://img.shields.io/badge/Project-PFE-gold?style=flat-square)
-![Production](https://img.shields.io/badge/Status-Complete-green?style=flat-square)
+### 1. 📊 Customer Churn Prediction – Banque Zitouna (PFE Complet)
+![PFE](https://img.shields.io/badge/Project-PFE-gold?style=flat-square)
+![Complete](https://img.shields.io/badge/Status-Complete-green?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Stack:** Python | SQL Server | Power BI | React.js | SSIS | ETL | Data Warehouse  
-**Résultats:** Pipeline BI + ML complet | Dashboards interactifs | 6 modèles prédictifs comparés
+**Stack :** Python | SQL Server | Power BI | React.js | SSIS | ETL | Data Warehouse  
+**Résultats :** Pipeline BI + ML complet | Dashboards interactifs | 6 modèles prédictifs comparés
 
-**Description:**  
-Projet de fin d'études réalisé à **Banque Zitouna**. Solution complète couvrant :
+**Description :**  
+Projet de fin d'études réalisé à **Banque Zitouna**. Solution end-to-end couvrant :
 - ✅ **ETL & Data Warehouse** : Intégration depuis CSV/JSON/TEXT via SSIS
 - ✅ **Business Intelligence** : Dashboards Power BI (KPIs, taux de churn, analyse par produit/agence)
-- ✅ **Machine Learning** : 6 modèles testés (Régression logistique, KNN, Random Forest, SVM, Naive Bayes, Gradient Boosting)
+- ✅ **Machine Learning** : 6 modèles testés (Régression Logistique, KNN, Random Forest, SVM, Naive Bayes, Gradient Boosting)
 - ✅ **Déploiement Web** : Application React.js avec Power BI Embedded
 
-**Impact:** Permettre à la banque d'anticiper le churn et mettre en place des stratégies de fidélisation.
+**Impact :** Permettre à la banque d'anticiper le churn et mettre en place des stratégies de fidélisation proactives.
 
-🔗 [GitHub](https://github.com/MohamedAli-Jabri/customer-churn-prediction-pfe) | 📈 [Voir les détails](#)
+> 🖼️ *Captures d'écran et démo disponibles dans le README du repo*
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Voir_le_repo-181717?style=flat-square&logo=github)](https://github.com/MohamedAli-Jabri/customer-churn-prediction-pfe)
+[![README](https://img.shields.io/badge/Détails-README-blue?style=flat-square)](https://github.com/MohamedAli-Jabri/customer-churn-prediction-pfe/blob/main/README.md)
 
 ---
 
-### 2. 🏃‍♂️ **Health & Fitness Estimation – Analyse Statistique Avancée**
-![R](https://img.shields.io/badge/Language-R-blue?style=flat-square)
+### 2. 🤖 Customer Churn Prediction – Pipeline MLOps Moderne
+![MLOps](https://img.shields.io/badge/MLOps-Complete-brightgreen?style=flat-square)
+![Production](https://img.shields.io/badge/Deployment-Ready-green?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-2C5AA0?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Stack :** Python | XGBoost | FastAPI | Streamlit | MLflow | Docker  
+**Résultats :** Accuracy **87%** | AUC **0.92** | Precision **0.89**
+
+**Description :**  
+Pipeline MLOps complet pour la prédiction du churn client en production :
+- ✅ **Data Preprocessing** : Feature engineering, gestion du déséquilibre de classes (SMOTE)
+- ✅ **Modélisation** : XGBoost avec hyperparameter tuning (Optuna)
+- ✅ **Tracking** : MLflow pour le versioning et la comparaison des modèles
+- ✅ **API REST** : FastAPI pour servir les prédictions en temps réel
+- ✅ **UI** : Dashboard Streamlit interactif avec SHAP explainability
+- ✅ **Déploiement** : Containerisation Docker, prêt pour production
+
+**Architecture :**
+```
+Data → Preprocessing → Model Training → MLflow Tracking → FastAPI → Streamlit UI → Docker
+```
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Voir_le_repo-181717?style=flat-square&logo=github)](https://github.com/MohamedAli-Jabri/Customer-churn-prediction-mlops)
+[![README](https://img.shields.io/badge/Détails-README-blue?style=flat-square)](https://github.com/MohamedAli-Jabri/Customer-churn-prediction-mlops/blob/main/README.md)
+
+---
+
+### 3. 🏃 Health & Fitness Estimation – Analyse Statistique Avancée
+![R](https://img.shields.io/badge/Language-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Method-Regression-lightblue?style=flat-square)
 ![Academic](https://img.shields.io/badge/Type-Academic-purple?style=flat-square)
 
-**Stack:** R | RMarkdown | Analyse Statistique | Régression Linéaire Multiple  
-**Dataset:** 2,000 participants | 34 variables  
-**Résultats:** R² Force de préhension: 61% | R² VO₂: 31%
+**Stack :** R | RMarkdown | Analyse Statistique | Régression Linéaire Multiple  
+**Dataset :** 2 000 participants | 34 variables  
+**Résultats :** R² Force de préhension : **61%** | R² VO₂ max : **31%**
 
-**Description:**  
-Projet académique d'analyse physiologique visant à modéliser la condition physique à partir de variables simples :
-- ✅ **Explorations & Corrélations** : Histogrammes, heatmaps, boxplots
-- ✅ **Tests d'Hypothèses** : Shapiro-Wilk, ANOVA, Test de Bartlett, Bootstrap
-- ✅ **Modélisation** : 2 modèles de régression linéaire multiple (stepwise/AIC)
-- ✅ **Variables Cibles** : Force de préhension, VO₂ max estimée
+**Description :**  
+Analyse physiologique visant à modéliser la condition physique à partir de variables simples mesurables :
+- ✅ **Exploration & Corrélations** : Histogrammes, heatmaps, boxplots
+- ✅ **Tests d'hypothèses** : Shapiro-Wilk, ANOVA, Test de Bartlett, Bootstrap
+- ✅ **Modélisation** : 2 modèles de régression linéaire multiple (sélection stepwise/AIC)
+- ✅ **Variables cibles** : Force de préhension, VO₂ max estimée
 
-**Application:** Dépistage de masse rapide et économique de la condition physique.
+**Application :** Dépistage de masse rapide et économique de la condition physique sans équipement médical coûteux.
 
-🔗 [GitHub](https://github.com/MohamedAli-Jabri/Health-fitness-estimation) | 📊 [Voir l'analyse](#)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Voir_le_repo-181717?style=flat-square&logo=github)](https://github.com/MohamedAli-Jabri/Health-fitness-estimation)
+[![README](https://img.shields.io/badge/Détails-README-blue?style=flat-square)](https://github.com/MohamedAli-Jabri/Health-fitness-estimation/blob/main/README.md)
 
 ---
 
-### 3. ⚽ **Premier League Player Performance Analysis – Hadoop MapReduce**
-![BigData](https://img.shields.io/badge/BigData-Hadoop-orange?style=flat-square)
-![MapReduce](https://img.shields.io/badge/Framework-MapReduce-red?style=flat-square)
-![Java](https://img.shields.io/badge/Language-Java-blue?style=flat-square)
+### 4. ⚽ Premier League Player Performance Analysis – Hadoop MapReduce
+![BigData](https://img.shields.io/badge/BigData-Hadoop-FCC624?style=flat-square&logo=apache&logoColor=black)
+![MapReduce](https://img.shields.io/badge/Framework-MapReduce-E25A1C?style=flat-square)
+![Java](https://img.shields.io/badge/Language-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-**Stack:** Java | Apache Hadoop | HDFS | MapReduce | Docker  
-**Dataset:** 580 joueurs | 20 clubs Premier League 2023-2024  
-**Résultats:** Analyse distribuée des performances par équipe
+**Stack :** Java | Apache Hadoop | HDFS | MapReduce | Docker  
+**Dataset :** 580 joueurs | 20 clubs | Premier League 2023-2024  
+**Résultats :** Analyse distribuée des performances par équipe à grande échelle
 
-**Description:**  
-Traitement distribué des statistiques de la Premier League 2023-2024 :
+**Description :**  
+Traitement distribué des statistiques de la Premier League 2023-2024 sur cluster Hadoop :
 - ✅ **MapReduce Job** : Agrégation des stats par équipe (buts, passes décisives, ratio goals/90)
-- ✅ **Architecture** : Classe Writable personnalisée pour sérialisation
+- ✅ **Architecture** : Classe `Writable` personnalisée pour la sérialisation des objets Java
 - ✅ **Scalabilité** : Traitement sur cluster Hadoop + containerisation Docker
-- ✅ **Sorties** : Stats par club (Arsenal, Liverpool, Manchester City, etc.)
+- ✅ **Sorties** : Stats agrégées par club (Arsenal, Liverpool, Manchester City, etc.)
 
-**Métrics Générées:** Buts totaux | Passes décisives | Goals per 90 minutes | Nombre de joueurs
+**Métriques générées :** Buts totaux | Passes décisives | Goals/90 min | Nombre de joueurs par club
 
-🔗 [GitHub](https://github.com/MohamedAli-Jabri/Premier-League-Player-Performance) | 🏟️ [Voir les données](#)
-
----
-
-### 4. 🎓 **Customer Churn Prediction – MLOps Moderne**
-![MLOps](https://img.shields.io/badge/MLOps-Complete-brightgreen?style=flat-square)
-![Production](https://img.shields.io/badge/Deployment-Ready-green?style=flat-square)
-
-**Stack:** Python | XGBoost | FastAPI | Streamlit | MLflow | Docker  
-**Résultats:** Accuracy 87% | AUC 0.92 | Precision 0.89
-
-**Description:**  
-Pipeline MLOps complet pour prédiction du churn client :
-- ✅ **Data Preprocessing** : Feature engineering, handling imbalance
-- ✅ **Modélisation** : XGBoost avec hyperparameter tuning
-- ✅ **Tracking** : MLflow pour versioning du modèle
-- ✅ **API** : FastAPI pour servir les prédictions
-- ✅ **UI** : Dashboard Streamlit interactif
-- ✅ **Deployment** : Containerisation Docker, prêt pour production
-
-**Architecture:** Data → Preprocessing → Model Training → MLflow Tracking → API FastAPI → UI Streamlit → Docker Container
-
-🔗 [GitHub](https://github.com/MohamedAli-Jabri/Customer-churn-prediction-mlops) | 🚀 [Voir le code](#)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Voir_le_repo-181717?style=flat-square&logo=github)](https://github.com/MohamedAli-Jabri/Premier-League-Player-Performance-Analysis-Hadoop-MapReduce)
+[![Dataset](https://img.shields.io/badge/Dataset-CSV-green?style=flat-square)](https://github.com/MohamedAli-Jabri/Premier-League-Player-Performance-Analysis-Hadoop-MapReduce/blob/main/Dataset/premier-player-23-24.csv)
 
 ---
 
-## 📜 Certificats & Formations
+## 📜 Certifications
 
-### 🔷 **NVIDIA – Fundamentals of Deep Learning**
-![NVIDIA](https://img.shields.io/badge/NVIDIA-DL_Cert-00B0F0?style=flat-square&logo=nvidia)
-**Délivré le:** 28 février 2026  
-**Certificat ID:** C19AP2otTw28jUR6TfumSQ  
-**Competency:** Démonstration de compétences en Deep Learning (CNN, RNN, Transfer Learning)
+### 🔷 NVIDIA – Fundamentals of Deep Learning
+[![NVIDIA DL Certificate](https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=C19AP2otTw28jUR6TfumSQ)
+
+**Délivré le :** 28 février 2026 | **ID :** `C19AP2otTw28jUR6TfumSQ`  
+**Compétences :** CNN | RNN | Transfer Learning | Data Augmentation | Optimisation de modèles
 
 ---
 
 ## 💻 Compétences & Technologies
 
-### 🔤 Langages de Programmation
+### 🔤 Langages de programmation
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 📊 Data Science & Visualization
+### 📊 Data Science & Visualisation
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
@@ -127,22 +149,22 @@ Pipeline MLOps complet pour prédiction du churn client :
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-2C5AA0?style=flat-square&logo=xgboost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-2C5AA0?style=flat-square)
 
 ### 🛠️ MLOps & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-00B0F0?style=flat-square&logo=mlflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### 🔧 Big Data & Distributed Systems
+### 🔧 Big Data & Systèmes distribués
 ![Hadoop](https://img.shields.io/badge/-Hadoop-FCC624?style=flat-square&logo=apache&logoColor=black)
 ![SSIS](https://img.shields.io/badge/-SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-### 💾 Backend & Database
+### 💾 Backend & Bases de données
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 📱 Frontend & Mobile
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -150,64 +172,58 @@ Pipeline MLOps complet pour prédiction du churn client :
 
 ---
 
-## 📈 En Chiffres
+## 🎓 Formation
 
-- 🔧 **6+ projets** Data Science, ML et Big Data
-- 🎓 **Cycle d'ingénieur** Data Science + **Licence** Business Intelligence
-- 🏆 **Stack ML moderne** (TensorFlow, PyTorch, XGBoost, MLflow)
-- 🚀 **Expérience MLOps complète** (Docker, FastAPI, Streamlit, MLflow)
-- 📊 **Expertise ETL & Data Warehouse** (SSIS, SQL Server, Power BI)
-- ⚙️ **Big Data & Systèmes Distribués** (Hadoop, MapReduce)
-- 🔬 **Certifications** (NVIDIA Deep Learning Fundamentals)
-- 🌍 **Basé en Tunisie** | Ouvert aux collaborations internationales
+| Diplôme | Établissement | Spécialité | Statut |
+|---|---|---|---|
+| Cycle d'ingénieur | ESPRIT | Data Science | En cours |
+| Licence | — | Business Computing & BI | Obtenue |
 
 ---
 
-## 🎓 Formation & Certifications
+## 📈 En chiffres
 
-### Formation Actuelle
-- 👨‍🎓 **Cycle d'ingénieur** - Spécialisation Data Science (ESPRIT)
-- 📜 **Licence** - Business Computing avec Business Intelligence
-- 🔬 **Focus:** Machine Learning, Deep Learning, Analytics, BigData
-
-### Certifications Obtenues
-- 🔷 **NVIDIA** - Fundamentals of Deep Learning (Février 2026)
-
-### Objectifs 2024-2025
-- 📚 Contribuer à des projets open-source (scikit-learn, pandas, TensorFlow)
-- 🥇 Participer à des compétitions Kaggle
-- 📖 Publier 3+ articles technologiques (Medium, Dev.to)
-- 🤝 Collaborer sur des projets ML impactants
-- 🏆 Obtenir 2-3 nouvelles certifications (AWS, GCP ML)
+| Métrique | Valeur |
+|---|---|
+| Projets réalisés | 4 projets Data Science, ML & Big Data |
+| Certifications | 1 (NVIDIA Deep Learning) |
+| Technologies maîtrisées | 20+ outils & frameworks |
+| Expérience en entreprise | PFE Banque Zitouna (pipeline complet) |
+| Stack MLOps | Docker · FastAPI · Streamlit · MLflow |
 
 ---
 
-## 🔗 Liens & Contact
+## 🎯 Objectifs 2026
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jabri-mohamed-ali-294577381/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moh.ali.jabri@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MohamedAli-Jabri)
+- [ ] 🥇 Participer à des compétitions Kaggle (Top 20%)
+- [ ] 📖 Publier des articles techniques sur Medium / Dev.to
+- [ ] 📚 Contribuer à des projets open-source (scikit-learn, Hugging Face)
+- [ ] 🏆 Obtenir 2 nouvelles certifications (AWS ML Specialty ou GCP Professional ML Engineer)
+- [ ] 🤝 Collaborer sur des projets ML à impact réel
 
-**Email:** `moh.ali.jabri@gmail.com`  
-**LinkedIn:** [Mohamed Ali Jabri](https://www.linkedin.com/in/jabri-mohamed-ali-294577381/)  
-**GitHub:** [@MohamedAli-Jabri](https://github.com/MohamedAli-Jabri)
+---
+
+## 🔗 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jabri-mohamed-ali-294577381/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Ali_Jabri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:moh.ali.jabri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-moh.ali.jabri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MohamedAli-Jabri">
+    <img src="https://img.shields.io/badge/GitHub-MohamedAli--Jabri-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 💡 Philosophie
 
-> Je crois que **les données sont le nouvel or**. Mon objectif est de transformer les données brutes en **insights stratégiques** et **solutions intelligentes** qui créent de la valeur réelle pour les organisations.
->
-> À travers mes projets, je démontre comment combiner **analyse rigoureuse**, **machine learning avancé** et **architecture moderne** pour résoudre des problèmes complexes du monde réel.
+> *"Les données sont le nouvel or — mais seulement si on sait les raffiner."*  
+> Mon objectif est de maîtriser toute la chaîne : de la donnée brute à la décision stratégique, en passant par l'analyse rigoureuse, le machine learning avancé et le déploiement en production.
 
 ---
 
-## 📝 Dernière mise à jour
-**Mars 2026** | 4 projets vedettes | 1 certification NVIDIA | Stack technologique complète
-
-**Version:** 2.0 - Professionnel  
-**Status:** Ouvert aux opportunités en Data Science, ML Engineering & AI
-
----
-
-*Merci de visiter mon portfolio ! N'hésitez pas à me contacter pour discuter de projets, collaborations ou opportunités. 🚀*
+*Dernière mise à jour : **Mars 2026** · 4 projets vedettes · 1 certification NVIDIA · Ouvert aux opportunités*
