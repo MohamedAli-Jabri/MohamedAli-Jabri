@@ -9,29 +9,7 @@ Passionné par **l'analyse de données, le Machine Learning (ML), le Deep Learni
 
 ---
 
-## 📊 Statistiques GitHub
 
-<!-- ======================= -->
-<!-- GitHub Stats Section -->
-<!-- ======================= -->
-<p align="center">
-  <!-- Carte Statistiques GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAli-Jabri&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&hide_title=false" height="180" alt="Mohamed Ali GitHub Stats"/>
-
-  <!-- Carte Top Langages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAli-Jabri&layout=compact&theme=tokyonight&langs_count=5&hide=CSS" height="180" alt="Top Languages"/>
-</p>
-
-<!-- ======================= -->
-<!-- Extra: GitHub Streaks -->
-<!-- ======================= -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAli-Jabri&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak"/>
-</p>
-
-
-
----
 
 ## 🏆 Projets Vedettes
 
