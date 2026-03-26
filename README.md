@@ -194,15 +194,6 @@ Traitement distribué des statistiques de la Premier League 2023-2024 sur cluste
 
 ---
 
-## 🎯 Objectifs 2026
-
-- [ ] 🥇 Participer à des compétitions Kaggle (Top 20%)
-- [ ] 📖 Publier des articles techniques sur Medium / Dev.to
-- [ ] 📚 Contribuer à des projets open-source (scikit-learn, Hugging Face)
-- [ ] 🏆 Obtenir 2 nouvelles certifications (AWS ML Specialty ou GCP Professional ML Engineer)
-- [ ] 🤝 Collaborer sur des projets ML à impact réel
-
----
 
 ## 🔗 Contact
 
