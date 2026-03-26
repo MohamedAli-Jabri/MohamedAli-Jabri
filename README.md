@@ -66,7 +66,7 @@ Pipeline MLOps complet pour la prédiction du churn client en production :
 
 **Architecture :**
 ```
-Data → Preprocessing → Model Training → MLflow Tracking → FastAPI → Streamlit UI → Docker
+Data → Preprocessing → Model Training → MLflow Tracking → FastAPI → Streamlit UI → Docker +(Automatisation : Makefile)
 ```
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Voir_le_repo-181717?style=flat-square&logo=github)](https://github.com/MohamedAli-Jabri/Customer-churn-prediction-mlops)
