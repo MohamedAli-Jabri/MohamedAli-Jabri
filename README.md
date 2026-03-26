@@ -11,7 +11,7 @@ Passionné par **l'analyse de données, le Machine Learning (ML), le Deep Learni
 
 
 
-## 🏆 Projets Vedettes
+## 🏆 Projets
 
 ### 1. 📊 Customer Churn Prediction – Banque Zitouna (PFE Complet)
 ![PFE](https://img.shields.io/badge/Project-PFE-gold?style=flat-square)
