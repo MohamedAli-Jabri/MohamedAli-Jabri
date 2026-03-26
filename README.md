@@ -58,6 +58,7 @@ Projet de fin d'études réalisé à **Banque Zitouna**. Solution end-to-end cou
 Pipeline MLOps complet pour la prédiction du churn client en production :
 - ✅ **Data Preprocessing** : Feature engineering, gestion du déséquilibre de classes (SMOTE)
 - ✅ **Modélisation** : XGBoost avec hyperparameter tuning (Optuna)
+- ✅ Automatisation : Makefile avec pipeline complet en une seule commande
 - ✅ **Tracking** : MLflow pour le versioning et la comparaison des modèles
 - ✅ **API REST** : FastAPI pour servir les prédictions en temps réel
 - ✅ **UI** : Dashboard Streamlit interactif avec SHAP explainability
