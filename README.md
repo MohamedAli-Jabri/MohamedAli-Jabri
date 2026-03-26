@@ -177,8 +177,8 @@ Traitement distribué des statistiques de la Premier League 2023-2024 sur cluste
 
 | Diplôme | Établissement | Spécialité | Statut |
 |---|---|---|---|
-| Cycle d'ingénieur | ESPRIT | Data Science | En cours |
-| Licence | — | Business Computing & BI | Obtenue |
+| Cycle d'ingénieur |  École Supérieure Privée d'Ingénierie et de Technologie | Data Science | En cours |
+| Licence | École Supérieure de l'Économie Numérique | Licence en Business Computing en Business Intelligence | Obtenue |
 
 ---
 
@@ -218,13 +218,3 @@ Traitement distribué des statistiques de la Premier League 2023-2024 sur cluste
   </a>
 </p>
 
----
-
-## 💡 Philosophie
-
-> *"Les données sont le nouvel or — mais seulement si on sait les raffiner."*  
-> Mon objectif est de maîtriser toute la chaîne : de la donnée brute à la décision stratégique, en passant par l'analyse rigoureuse, le machine learning avancé et le déploiement en production.
-
----
-
-*Dernière mise à jour : **Mars 2026** · 4 projets vedettes · 1 certification NVIDIA · Ouvert aux opportunités*
